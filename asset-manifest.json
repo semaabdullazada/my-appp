@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lasttask/static/css/main.f855e6bc.css",
+    "main.js": "/lasttask/static/js/main.820541b3.js",
+    "static/media/logo.svg": "/lasttask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lasttask/index.html",
+    "main.f855e6bc.css.map": "/lasttask/static/css/main.f855e6bc.css.map",
+    "main.820541b3.js.map": "/lasttask/static/js/main.820541b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.820541b3.js"
+  ]
+}
